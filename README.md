@@ -16,7 +16,7 @@ A simple and responsive Weather App built with React that fetches real-time weat
 - **CSS** – Styling  
 
 ## 🎬 Preview  
-![Weather App Screenshot](.src/assets/weather-app-preview.png)  
+![Weather App Screenshot]src/assets/your-image.png  
 
 ## 🔧 Setup & Installation  
 
