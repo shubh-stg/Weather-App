@@ -22,7 +22,7 @@ A simple and responsive Weather App built with React that fetches real-time weat
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/shubh-stg/weather-app.git
    cd weather-app
 2. **Install Dependencies**
    ```bash
