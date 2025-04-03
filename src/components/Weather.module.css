@@ -1,0 +1,66 @@
+/* Weather.module.css */
+.weather {
+  place-self: center;
+  padding: 40px;
+  border-radius: 10px;
+  background-image: linear-gradient(45deg, #2f4680, #500ae4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.searchbar{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.input{
+  height: 55px;
+  border-radius: 20px;
+  outline:null;
+  border: null;
+  padding-left: 25px;
+  background: black;
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.sicon{
+  width: 50px;
+  
+  cursor: pointer; 
+  height: 20px;
+  border-radius: 55%;
+  background-color:whitesmoke;
+  padding: 1.5px;
+  
+}
+.weathericon{
+  margin : 30px 0;
+  
+}
+.temperature{
+  font-size: 80px;
+  color: #fff;
+  line-height: 1;
+}
+.location{
+  color: #fff;
+  font-size: 35px;
+}
+.weatherinfo{
+  width: 100%;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
+.col{
+  display: flex;
+  justify-content: flex-start;
+  gap:12px;
+  font-size: 21px;
+}
+.spn{
+  display: block;
+  
+}

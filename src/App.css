@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #e2d4ff; /* ✅ Ensures full-page background */
+  min-height: 100vh;   /* Ensures it covers the entire viewport */
+}
+
+.app {
+  display: grid;
+  min-height: 100vh; /* Ensures container covers full height */
+  background: #e2d4ff; /* ✅ Background inside the container */
+}
+
